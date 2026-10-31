@@ -1,5 +1,11 @@
 package colas;
 
+/*
+* Interface Labs Colas
+* @author Ángel Nahúm Camarillo Solano
+* @author 29 Octubre 2026
+*/
+
 public class ColaArreglo {
 	private int[] datos;
 	private int frente;
